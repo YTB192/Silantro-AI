@@ -565,14 +565,14 @@ def reset_app():
 # -------------------- APP INTERFACE --------------------
 
 st.set_page_config(
-    page_title="Silantro",
+    page_title="Silantro AI",
     page_icon="🎬",
     layout="centered",
 )
 
 initialize_state()
 
-st.title("🎬 Silantro")
+st.title("🎬 Silantro AI")
 st.write(
     "Transform your creative ideas into detailed, "
     "high-quality AI image and video prompts."
@@ -590,7 +590,7 @@ creation_type = st.radio(
 st.divider()
 st.subheader("2. Choose your working mode")
 mode = st.radio(
-    "How would you like Silantro to help?",
+    "How would you like Silantro AI to help?",
     ["Quick Enhance", "Guided Director", "Creative Exploration"],
     help="Choose how you want to develop your idea.",
     key="mode",
