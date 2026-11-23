@@ -1,6 +1,6 @@
-# Silantro
+# Silantro AI
 
-Silantro is a locally running AI tool that helps you improve image and video prompts.
+Silantro AI is a locally running AI tool that helps you improve image and video prompts.
 
 It uses Ollama to run the AI model locally on your computer. No API key or paid AI service is required.
 
@@ -15,7 +15,7 @@ Before running the application, install:
 
 ### 1. Download the project
 
-Download and extract the Silantro ZIP file to a folder on your computer.
+Download and extract the Silantro-AI ZIP file to a folder on your computer.
 
 ### 2. Install the AI model
 
