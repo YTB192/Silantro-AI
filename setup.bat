@@ -1,8 +1,8 @@
 @echo off
-title Silantro Setup
+title Silantro AI Setup
 
 echo ====================================
-echo       Silantro Setup
+echo       Silantro AI Setup
 echo ====================================
 echo.
 
