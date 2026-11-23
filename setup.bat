@@ -1,8 +1,8 @@
 @echo off
-title AI Prompt Director Setup
+title Silantro Setup
 
 echo ====================================
-echo       AI Prompt Director Setup
+echo       Silantro Setup
 echo ====================================
 echo.
 

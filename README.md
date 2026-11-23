@@ -1,6 +1,6 @@
-# AI Prompt Director
+# Silantro
 
-AI Prompt Director is a locally running AI tool that helps you improve image and video prompts.
+Silantro is a locally running AI tool that helps you improve image and video prompts.
 
 It uses Ollama to run the AI model locally on your computer. No API key or paid AI service is required.
 
@@ -15,7 +15,7 @@ Before running the application, install:
 
 ### 1. Download the project
 
-Download and extract the AI Prompt Director ZIP file to a folder on your computer.
+Download and extract the Silantro ZIP file to a folder on your computer.
 
 ### 2. Install the AI model
 
@@ -37,7 +37,7 @@ Run:
 py -m pip install -r requirements.txt
 ```
 
-### 4. Start AI Prompt Director
+### 4. Start Silantro
 
 In the same project folder, run:
 
@@ -55,5 +55,5 @@ http://localhost:8501
 
 - Ollama must be installed and running.
 - The `qwen3.5:9b` model must be downloaded before using the application.
-- AI Prompt Director runs locally on your computer.
+- Silantro runs locally on your computer.
 - Keep the PowerShell window open while using the application.
