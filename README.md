@@ -15,7 +15,7 @@ Before running the application, install:
 
 ### 1. Download the project
 
-Download and extract the Silantro-AI ZIP file to a folder on your computer.
+Download and extract the Silantro ZIP file to a folder on your computer.
 
 ### 2. Install the AI model
 
@@ -37,7 +37,7 @@ Run:
 py -m pip install -r requirements.txt
 ```
 
-### 4. Start Silantro
+### 4. Start Silantro AI
 
 In the same project folder, run:
 
@@ -55,5 +55,5 @@ http://localhost:8501
 
 - Ollama must be installed and running.
 - The `qwen3.5:9b` model must be downloaded before using the application.
-- Silantro runs locally on your computer.
+- Silantro AI runs locally on your computer.
 - Keep the PowerShell window open while using the application.
